@@ -5,15 +5,15 @@ module.exports = {
 
   // *Required* Bot token. Can be found in your bots application page.
   // https://discordapp.com/developers/applications/me
-  TOKEN: '',
+  TOKEN: 'NTE3Mjg5NjgzOTY1ODM3MzIy.DuADNg.LvjMT-J6PqYbV2trz-mgzVbYd6I',
 
   // *Required* Bot client ID. Can be found in your bots application page.
   // https://discordapp.com/developers/applications/me
-  CLIENT_ID: '',
+  CLIENT_ID: '517289683965837322',
 
   // *Required* Redis URL. Can be left blank if Redis is opened locally.
   // Learn more here. http://redis.io/topics/quickstart
-  REDIS_URL: '',
+  REDIS_URL: ' https://docs.google.com/forms/d/e/1FAIpQLSfKEISkc-kmygkndrddupJyxYhhnbX7oWshcQDGrI_w0Cx3Iw/viewform?vc=0&c=0&w=1',
 
   // Time to wait between commands per user in seconds. Default is 1.
   MESSAGE_TTL: '',
